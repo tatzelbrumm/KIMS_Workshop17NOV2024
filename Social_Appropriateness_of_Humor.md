@@ -78,7 +78,7 @@ Draw me a picture of Chance Gardener eavesdropping behind the looking glass.
 
 ## ChatGPT: ##
 
-![A surreal illustration of Chance the Gardener from 'Being There', depicted as a middle-aged man in a simple suit and hat, standing behind a large, ornate mirror. The mirror reflects an empty room with subtle, distorted elements suggesting an alternate reality. Chance appears to be eavesdropping, leaning slightly forward, his face curious but expressionless. The setting is dimly lit, with an eerie, dreamlike quality, evoking themes of isolation and hidden observation.](pix/DALL·E 2024-11-17 20.39.25 - A surreal illustration of Chance the Gardener from 'Being There', depicted as a middle-aged man in a simple suit and hat, standing behind a large, orn.webp) 
+![A surreal illustration of Chance the Gardener from 'Being There', depicted as a middle-aged man in a simple suit and hat, standing behind a large, ornate mirror. The mirror reflects an empty room with subtle, distorted elements suggesting an alternate reality. Chance appears to be eavesdropping, leaning slightly forward, his face curious but expressionless. The setting is dimly lit, with an eerie, dreamlike quality, evoking themes of isolation and hidden observation.](pix/DALL·E_2024-11-17_20.39.25.jpg) 
 
 
 Here's your surreal depiction of Chance the Gardener eavesdropping behind the looking glass. Let me know if you'd like any adjustments!
@@ -114,7 +114,7 @@ Something with Change Gardener gate crashing behind a mirror, critical of access
 
 ## ChatGPT: ##
 
-![A surreal illustration of Chance the Gardener from 'Being There', depicted as a middle-aged man in a simple suit and hat, standing behind a large, ornate mirror. He appears to be gate-crashing a private event on the other side of the mirror. The scene on the other side shows an opulent room with velvet ropes and 'Restricted Access' signs. Chance's expression is neutral, but the atmosphere is tense, highlighting themes of exclusion and barriers. The setting is dimly lit, with a dreamlike, critical tone.](pix/DALL·E 2024-11-17 20.39.49 - A surreal illustration of Chance the Gardener from 'Being There', depicted as a middle-aged man in a simple suit and hat, standing behind a large, orn.webp) 
+![A surreal illustration of Chance the Gardener from 'Being There', depicted as a middle-aged man in a simple suit and hat, standing behind a large, ornate mirror. He appears to be gate-crashing a private event on the other side of the mirror. The scene on the other side shows an opulent room with velvet ropes and 'Restricted Access' signs. Chance's expression is neutral, but the atmosphere is tense, highlighting themes of exclusion and barriers. The setting is dimly lit, with a dreamlike, critical tone.](pix/DALL·E_2024-11-17_20.39.49.jpg) 
 
 
 Here's the surreal illustration of Chance the Gardener gate-crashing behind the mirror, with a critical view of access restrictions. Let me know if you'd like any changes!
@@ -125,7 +125,7 @@ Can you add a generic white rabbit with a suit?
 
 ## ChatGPT: ##
 
-![A surreal illustration featuring Chance the Gardener from 'Being There', depicted as a middle-aged man in a simple suit and hat, standing behind a large, ornate mirror. He appears to be gate-crashing a private event on the other side of the mirror. Beside him, a generic white rabbit in a formal suit, holding a pocket watch, adds a whimsical element. The scene on the other side shows an opulent room with velvet ropes and 'Restricted Access' signs. The setting is dimly lit, with a dreamlike, critical tone.](pix/DALL·E 2024-11-17 20.39.59 - A surreal illustration featuring Chance the Gardener from 'Being There', depicted as a middle-aged man in a simple suit and hat, standing behind a lar.webp) 
+![A surreal illustration featuring Chance the Gardener from 'Being There', depicted as a middle-aged man in a simple suit and hat, standing behind a large, ornate mirror. He appears to be gate-crashing a private event on the other side of the mirror. Beside him, a generic white rabbit in a formal suit, holding a pocket watch, adds a whimsical element. The scene on the other side shows an opulent room with velvet ropes and 'Restricted Access' signs. The setting is dimly lit, with a dreamlike, critical tone.](pix/DALL·E_2024-11-17_20.39.59.jpg) 
 
 
 Here's the updated illustration, now featuring a generic white rabbit in a suit. Let me know if you need further adjustments!
@@ -148,6 +148,6 @@ Draw me Chance Gardener pruning a plant with associative branches that need to b
 
 ## ChatGPT: ##
 
-![A surreal illustration of Chance the Gardener from 'Being There', depicted as a middle-aged man in a simple suit and hat, carefully pruning a large, intricate plant. The plant has associative branches labeled with phrases like 'Corporate Entry Barriers' and 'Academic Entry Barriers.' Chance is focused, using pruning shears to cut these specific branches. The setting is symbolic, with a mix of natural elements and abstract corporate or academic symbols in the background, creating a thoughtful and critical atmosphere.](pix/DALL·E 2024-11-17 20.40.26 - A surreal illustration of Chance the Gardener from 'Being There', depicted as a middle-aged man in a simple suit and hat, carefully pruning a large, i.webp) 
+![A surreal illustration of Chance the Gardener from 'Being There', depicted as a middle-aged man in a simple suit and hat, carefully pruning a large, intricate plant. The plant has associative branches labeled with phrases like 'Corporate Entry Barriers' and 'Academic Entry Barriers.' Chance is focused, using pruning shears to cut these specific branches. The setting is symbolic, with a mix of natural elements and abstract corporate or academic symbols in the background, creating a thoughtful and critical atmosphere.](pix/DALL·E_2024-11-17_20.40.26.jpg) 
 
 Here is the illustration of Chance the Gardener pruning a plant with branches symbolizing corporate and academic entry barriers. Let me know if you'd like any changes or additions!
