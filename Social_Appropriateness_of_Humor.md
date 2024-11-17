@@ -1,5 +1,7 @@
 # Social Appropriateness of Humor #
 
+[https://chatgpt.com/c/673a0d6b-375c-8000-9f73-1ed8f6ba58d7](https://chatgpt.com/c/673a0d6b-375c-8000-9f73-1ed8f6ba58d7)
+
 ## You: ##
 
 I'm just being there, gate crashing an AI workshop where I shouldn't be officially.  
